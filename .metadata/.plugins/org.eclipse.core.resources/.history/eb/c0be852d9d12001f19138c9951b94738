@@ -30,7 +30,6 @@ import l2r.gameserver.model.quest.QuestState;
 /**
  * Gather the Flames (617)
  * @author malyelfik
- * @edited by Vmilon
  */
 public class Q00617_GatherTheFlames extends Quest
 {
