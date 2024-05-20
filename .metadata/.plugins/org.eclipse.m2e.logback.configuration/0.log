@@ -20,3 +20,4 @@ Caused by: org.eclipse.aether.transfer.ArtifactNotFoundException: Could not find
 	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.performDownloads(DefaultArtifactResolver.java:520) ~[na:na]
 	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:421) ~[na:na]
 	... 8 common frames omitted
+2024-05-17 14:15:28,290 [main] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache file is not out-of-date. No remote download required.

@@ -200,6 +200,7 @@ public class Wedding implements IVoicedCommandHandler
 			return false;
 		}
 		
+		
 		// check if target has player on friendlist
 		boolean foundOnFriendList = false;
 		try (Connection con = L2DatabaseFactory.getInstance().getConnection();
