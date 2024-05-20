@@ -1,0 +1,17 @@
+[26.04.24 13:57:42] WARN:UPnP Service is disabled.
+[26.04.24 14:31:21] WARN:Couldn't resolve hostname "java.net.UnknownHostException: 192.62.248.1/16"
+[28.04.24 22:38:20] WARN:Incomplete Packet is sent to the server, closing connection.(LS)
+[29.04.24 18:23:48] WARN:Added banned address 37.6.163.222! Too many login attemps.
+[02.05.24 03:30:25] WARN:L2LoginClient: size have to be multiple of 8
+[06.05.24 18:36:15] WARN:Potential Flood from 35.203.211.211
+[06.05.24 18:36:18] WARN:Incomplete Packet is sent to the server, closing connection.(LS)
+[07.05.24 14:52:21] ERROR:IOException while sending packet InitLS
+[08.05.24 16:10:17] WARN:Added banned address 37.6.163.222! Too many login attemps.
+[09.05.24 15:26:06] WARN:Added banned address 37.6.163.222! Too many login attemps.
+[10.05.24 06:04:07] WARN:Incomplete Packet is sent to the server, closing connection.(LS)
+[14.05.24 02:09:58] WARN:Potential Flood from 162.216.150.63
+[14.05.24 02:10:05] WARN:Incomplete Packet is sent to the server, closing connection.(LS)
+[15.05.24 10:49:07] ERROR:IOException while sending packet RequestCharacters
+[15.05.24 10:48:51] ERROR:IOException while sending packet RequestCharacters
+[15.05.24 05:37:00] WARN:Potential Flood from 194.62.248.128
+[15.05.24 10:50:06] ERROR:IOException while sending packet RequestCharacters
